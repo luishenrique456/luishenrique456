@@ -6,7 +6,7 @@ Rede Social :
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenrique456&show_icons=true&theme=dracula&custom_title=Statistics%20%20Luis%20Henrique)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenrique456&show_icons=true&theme=dracula&custom_title=Statistics%)
 
 <br>
 
