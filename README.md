@@ -1,3 +1,6 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93EBFF&width=435&lines=Hi!+Eu+sou+o+Luis+Henrique)](https://git.io/typing-svg)
+
+
 ## Hi! Eu Sou Luis Henrique 👋
 
 Rede Social :
